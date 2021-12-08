@@ -1,0 +1,4 @@
+12:08:17:46:47 | DEBUG    | logging.py :aiogram.contrib.middlewares.logging: on_pre_process_update: 29 | Received update [ID:479475402]
+12:08:17:46:47 | INFO     | logging.py :aiogram.contrib.middlewares.logging: on_pre_process_message: 37 | Received message [ID:290] in chat [private:514191314]
+12:08:17:46:47 | DEBUG    | logging.py :aiogram.contrib.middlewares.logging: on_post_process_message: 40 | Unhandled message [ID:290] in chat [private:514191314]
+12:08:17:46:47 | INFO     | logging.py :aiogram.contrib.middlewares.logging: on_post_process_update: 34  | Process update [ID:479475402]: [success] (in 2 ms)

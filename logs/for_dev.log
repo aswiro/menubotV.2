@@ -1,0 +1,6 @@
+WARNING 2021-12-08 17:16:10,999 MainProcess 16500 basic app.py on_shutdown: Shutting down..
+WARNING 2021-12-08 17:16:11,246 MainProcess 16500 basic app.py on_shutdown: Bye!
+WARNING 2021-12-08 17:18:28,890 MainProcess 11288 basic app.py on_shutdown: Shutting down..
+WARNING 2021-12-08 17:18:29,036 MainProcess 11288 basic app.py on_shutdown: Bye!
+WARNING 2021-12-08 17:23:43,896 MainProcess 17052 basic app.py on_shutdown: Shutting down..
+WARNING 2021-12-08 17:23:44,055 MainProcess 17052 basic app.py on_shutdown: Bye!
